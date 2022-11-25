@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   }
+   .body{
+    background-color: white;
+   }
+   .logo img{
+    width: 40%;
+    align-self: center;
+    justify-content: center;
+    margin-left: 25%;
+   }
+
+   .items{
+    display:flex;
+    align-items:center;
+    gap:30px; 
+    margin: 2rem auto;
+   }
+   .container{
+    background:white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30%;
+    justify-content: center;
+
+   }
+   .items{
+    margin-left: 30%;
+   }
+   .signup{
+    /* font-size: 1rem;
+    padding: 0.2rem 0px ;
+    margin: 1rem 0px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(to right , #16c516 , #0fc963);
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-bottom: 5px; */
+    align-self: start;
+    margin: 1rem 0px;
+    border-radius: 5px;
+    
+   }
+
+   
